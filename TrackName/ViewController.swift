@@ -12,7 +12,6 @@ class ViewController: UIViewController, UITableViewDelegate {
 
     @IBOutlet weak var tableView: UITableView!
     
-    //var cellContent = ["Vui", "Eric", "Boulder", "Senna", "P-Dude"]
     var cellContent:[String] = []
     
     override func viewDidLoad() {
