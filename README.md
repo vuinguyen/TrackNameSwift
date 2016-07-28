@@ -1,6 +1,6 @@
 # TrackNameSwift
 
-This was the program I had to write for my 1st technical interview with Trello. This program was written in 45 minutes while pair programming with another iOS developer at Trello. It was written in Swift 2.0. 
+This was the program I had to write for my 1st technical interview with Trello. This program was written in 45 minutes while pair programming with another iOS developer at Trello. It was written in Swift 2.2. 
 
 The program is an iOS mobile app that displays track names from a U2 album. 
 
